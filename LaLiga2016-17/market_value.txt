@@ -1,0 +1,21 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+FC Barcelona	FC Barcelona 	37	24,7	18	787,20 Mill. €	21,28 Mill. €
+Real Madrid	Real Madrid 	33	24,2	18	743,10 Mill. €	22,52 Mill. €
+Atlético Madrid	Atlético Madrid 	47	23,3	31	456,90 Mill. €	9,72 Mill. €
+Valencia CF	Valencia CF 	40	24,0	18	286,40 Mill. €	7,16 Mill. €
+Sevilla FC	Sevilla FC 	40	24,4	24	236,40 Mill. €	5,91 Mill. €
+Villarreal CF	Villarreal CF 	39	24,3	15	158,70 Mill. €	4,07 Mill. €
+Athletic Bilbao	Athletic Bilbao 	35	25,1	1	151,60 Mill. €	4,33 Mill. €
+Real Sociedad	Real Sociedad 	34	24,5	5	110,50 Mill. €	3,25 Mill. €
+Celta de Vigo	Celta de Vigo 	32	24,5	15	95,50 Mill. €	2,98 Mill. €
+Deportivo de La Coruña	Deportivo de La Coruña 	37	25,8	16	92,80 Mill. €	2,51 Mill. €
+Granada CF	Granada CF 	43	24,1	30	85,50 Mill. €	1,99 Mill. €
+RCD Espanyol Barcelona	RCD Espanyol Barcelona 	35	25,8	10	84,70 Mill. €	2,42 Mill. €
+Real Betis Balompié	Real Betis Balompié 	31	25,4	14	76,80 Mill. €	2,48 Mill. €
+Málaga CF	Málaga CF 	32	25,0	16	73,90 Mill. €	2,31 Mill. €
+UD Las Palmas	UD Las Palmas 	33	25,7	9	55,90 Mill. €	1,69 Mill. €
+SD Eibar	SD Eibar 	38	24,3	6	52,10 Mill. €	1,37 Mill. €
+Sporting Gijón	Sporting Gijón 	33	24,7	9	50,50 Mill. €	1,53 Mill. €
+CD Leganés	CD Leganés 	37	25,1	11	47,30 Mill. €	1,28 Mill. €
+Deportivo Alavés	Deportivo Alavés 	30	24,4	11	39,80 Mill. €	1,33 Mill. €
+CA Osasuna	CA Osasuna 	37	24,5	9	36,90 Mill. €	997 Th. €

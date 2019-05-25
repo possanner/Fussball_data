@@ -1,0 +1,21 @@
+Pos.	Name	S	U	N	T+		T-	±	Punkte	S	U	N	T+		T-	Punkte	S	U	N	T+		T-	Punkte	Tendenz
+1	Villarreal	6	0	0	10	:	2	8	18	4	0	0	6	:	1	12	2	0	0	4	:	1	6	S-S-S-S-S-S
+2	At. Madrid	5	0	1	9	:	2	7	15	2	0	0	3	:	1	6	3	0	1	6	:	1	9	S-S-S-N-S-S
+3	Malaga	4	2	0	7	:	2	5	14	2	0	0	3	:	0	6	2	2	0	4	:	2	8	U-S-S-S-S-U
+4	Real Madrid	4	1	1	24	:	7	17	13	4	0	0	22	:	4	12	0	1	1	2	:	3	1	S-U-S-S-N-S
+5	Barcelona	3	3	0	14	:	4	10	12	2	1	0	10	:	2	7	1	2	0	4	:	2	5	S-S-U-S-U-U
+6	FC Sevilla	3	2	1	8	:	3	5	11	3	0	0	6	:	0	9	0	2	1	2	:	3	2	S-N-S-U-S-U
+7	Eibar	3	1	2	10	:	6	4	10	2	1	0	5	:	2	7	1	0	2	5	:	4	3	S-S-S-N-U-N
+8	Getafe	2	3	1	7	:	8	-1	9	1	2	0	2	:	1	5	1	1	1	5	:	7	4	S-S-U-U-U-N
+9	Las Palmas	2	2	2	9	:	8	1	8	2	1	0	6	:	2	7	0	1	2	3	:	6	1	U-U-S-N-S-N
+10	At. Bilbao	2	2	2	6	:	6	0	8	1	2	0	4	:	2	5	1	0	2	2	:	4	3	N-U-S-S-N-U
+11	Real Sociedad	2	2	2	8	:	9	-1	8	2	0	1	4	:	3	6	0	2	1	4	:	6	2	S-U-N-N-U-S
+12	Celta Vigo	2	1	3	4	:	6	-2	7	1	0	2	1	:	3	3	1	1	1	3	:	3	4	N-N-N-S-S-U
+13	Deportivo	1	3	2	6	:	10	-4	6	1	1	1	4	:	3	4	0	2	1	2	:	7	2	N-N-U-S-U-U
+14	Granada	2	0	4	5	:	14	-9	6	1	0	2	2	:	5	3	1	0	2	3	:	9	3	N-S-N-N-S-N
+15	Espanyol	1	2	3	3	:	6	-3	5	1	2	0	2	:	1	5	0	0	3	1	:	5	0	N-U-N-S-N-U
+16	Valencia	0	4	2	6	:	9	-3	4	0	3	0	5	:	5	3	0	1	2	1	:	4	1	N-U-N-U-U-U
+17	Levante	1	1	4	4	:	8	-4	4	1	0	2	3	:	4	3	0	1	2	1	:	4	1	S-N-N-N-N-U
+18	Gijon	1	0	5	5	:	12	-7	3	1	0	2	5	:	6	3	0	0	3	0	:	6	0	N-N-N-N-N-S
+19	Real Betis	0	2	4	1	:	11	-10	2	0	2	1	1	:	5	2	0	0	3	0	:	6	0	N-N-N-U-N-U
+20	Vallecano	0	1	5	7	:	20	-13	1	0	1	2	3	:	6	1	0	0	3	4	:	14	0	N-U-N-N-N-N

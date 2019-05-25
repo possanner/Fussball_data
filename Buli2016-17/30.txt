@@ -1,0 +1,19 @@
+Pos.	Name	S	U	N	T+		T-	±	Punkte	S	U	N	T+		T-	Punkte	S	U	N	T+		T-	Punkte	Tendenz
+1	Bremen	5	1	0	19	:	7	12	16	3	0	0	8	:	1	9	2	1	0	11	:	6	7	S-S-U-S-S-S
+2	Leipzig	4	1	1	13	:	6	7	13	3	0	0	9	:	0	9	1	1	1	4	:	6	4	U-S-S-S-S-N
+3	Hoffenheim	4	1	1	12	:	7	5	13	3	0	0	7	:	3	9	1	1	1	5	:	4	4	U-S-N-S-S-S
+4	Dortmund	4	1	1	12	:	8	4	13	3	0	0	7	:	1	9	1	1	1	5	:	7	4	S-S-N-S-U-S
+5	B. München	3	2	1	13	:	4	9	11	2	1	0	12	:	3	7	1	1	1	1	:	1	4	U-U-S-N-S-S
+6	Freiburg	3	1	2	7	:	11	-4	10	2	0	1	5	:	6	6	1	1	1	2	:	5	4	S-N-S-S-N-U
+7	Ingolstadt	3	0	3	10	:	13	-3	9	2	0	1	7	:	7	6	1	0	2	3	:	6	3	N-N-S-S-S-N
+8	Schalke	2	2	2	8	:	8	0	8	1	2	0	6	:	3	5	1	0	2	2	:	5	3	U-N-S-N-U-S
+9	Köln	2	1	3	10	:	10	0	7	2	1	1	8	:	6	7	0	0	2	2	:	4	0	U-N-N-S-N-S
+10	Wolfsburg	2	1	3	8	:	9	-1	7	2	0	1	4	:	1	6	0	1	2	4	:	8	1	N-S-N-N-U-S
+11	M'gladbach	2	1	3	9	:	11	-2	7	1	0	2	3	:	4	3	1	1	1	6	:	7	4	N-N-S-S-U-N
+12	Hamburg	2	1	3	6	:	9	-3	7	2	0	1	5	:	4	6	0	1	2	1	:	5	1	N-N-S-N-S-U
+13	Frankfurt	1	3	2	6	:	7	-1	6	1	3	0	5	:	3	6	0	0	2	1	:	4	0	S-N-U-N-U-U
+14	Hertha	2	0	4	6	:	9	-3	6	2	0	1	4	:	3	6	0	0	3	2	:	6	0	S-N-S-N-N-N
+15	Darmstadt	2	0	4	6	:	12	-6	6	1	0	1	2	:	3	3	1	0	3	4	:	9	3	S-S-N-N-N-N
+16	Leverkusen	1	2	3	6	:	7	-1	5	0	2	0	3	:	3	2	1	0	3	3	:	4	3	N-U-N-S-U-N
+17	Mainz	1	1	4	6	:	9	-3	4	1	0	2	3	:	4	3	0	1	2	3	:	5	1	U-S-N-N-N-N
+18	Augsburg	1	1	4	6	:	16	-10	4	1	1	1	5	:	5	4	0	0	3	1	:	11	0	N-S-N-N-N-U
