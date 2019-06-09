@@ -1,0 +1,21 @@
+Pos.	Name	S	U	N	T+		T-	±	Punkte	S	U	N	T+		T-	Punkte	S	U	N	T+		T-	Punkte	Tendenz
+1	Real Madrid	5	1	0	26	:	10	16	16	2	0	0	12	:	3	6	3	1	0	14	:	7	10	S-S-S-U-S-S
+2	At. Madrid	5	1	0	9	:	1	8	16	3	1	0	7	:	1	10	2	0	0	2	:	0	6	S-S-S-S-U-S
+3	Barcelona	4	2	0	14	:	4	10	14	1	1	0	2	:	1	4	3	1	0	12	:	3	10	S-U-U-S-S-S
+4	Alaves	4	1	1	9	:	6	3	13	3	1	0	6	:	3	10	1	0	1	3	:	3	3	S-S-S-N-U-S
+5	Girona	3	2	1	12	:	2	10	11	3	0	0	11	:	0	9	0	2	1	1	:	2	2	S-N-S-U-U-S
+6	Getafe	2	4	0	7	:	3	4	10	2	2	0	6	:	2	8	0	2	0	1	:	1	2	S-U-U-U-U-S
+7	Villarreal	3	1	2	10	:	8	2	10	2	0	1	7	:	5	6	1	1	1	3	:	3	4	U-N-N-S-S-S
+8	FC Sevilla	3	1	2	8	:	8	0	10	1	1	0	2	:	1	4	2	0	2	6	:	7	6	S-S-N-U-S-N
+9	Celta Vigo	3	1	2	9	:	10	-1	10	1	1	0	5	:	4	4	2	0	2	4	:	6	6	N-U-N-S-S-S
+10	Valencia	3	0	3	9	:	10	-1	9	1	0	1	4	:	5	3	2	0	2	5	:	5	6	S-S-N-N-N-S
+11	Real Betis	3	0	3	11	:	16	-5	9	2	0	2	8	:	13	6	1	0	1	3	:	3	3	N-S-S-N-N-S
+12	Eibar	2	2	2	8	:	6	2	8	1	1	2	6	:	5	4	1	1	0	2	:	1	4	N-S-S-U-U-N
+13	Las Palmas	2	1	3	4	:	12	-8	7	2	0	1	4	:	3	6	0	1	2	0	:	9	1	N-U-S-N-S-N
+14	Real Sociedad	2	0	4	15	:	15	0	6	2	0	2	11	:	6	6	0	0	2	4	:	9	0	S-N-S-N-N-N
+15	Leganes	1	2	3	6	:	11	-5	5	1	0	2	4	:	6	3	0	2	1	2	:	5	2	N-N-N-U-S-U
+16	Espanyol	0	4	2	7	:	11	-4	4	0	3	1	3	:	6	3	0	1	1	4	:	5	1	U-U-U-N-N-U
+17	At. Bilbao	0	4	2	4	:	8	-4	4	0	2	0	1	:	1	2	0	2	2	3	:	7	2	N-U-N-U-U-U
+18	Malaga	0	2	4	2	:	6	-4	2	0	1	2	1	:	3	1	0	1	2	1	:	3	1	N-N-N-U-U-N
+19	Levante	0	2	4	6	:	13	-7	2	0	1	1	2	:	3	1	0	1	3	4	:	10	1	N-N-U-U-N-N
+20	Deportivo	0	1	5	4	:	18	-14	1	0	1	2	3	:	5	1	0	0	3	1	:	13	0	N-N-N-U-N-N

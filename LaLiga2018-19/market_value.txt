@@ -1,5 +1,5 @@
 Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
-FC Barcelona	FC Barcelona 	23	27,6	18	1,18 Bill. €	51,30 Mill. €
+FC Barcelona	FC Barcelona 	23	27,6	18	1180,0 Mill. €	51,30 Mill. €
 Real Madrid	Real Madrid 	25	26,3	13	965,30 Mill. €	38,61 Mill. €
 Atlético Madrid	Atlético Madrid 	23	26,8	13	955,00 Mill. €	41,52 Mill. €
 Valencia CF	Valencia CF 	22	26,5	13	353,00 Mill. €	16,05 Mill. €

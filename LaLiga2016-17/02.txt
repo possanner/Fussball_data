@@ -1,0 +1,21 @@
+Pos.	Name	S	U	N	T+		T-	±	Punkte	S	U	N	T+		T-	Punkte	S	U	N	T+		T-	Punkte	Tendenz
+1	Las Palmas	2	0	0	9	:	3	6	6	1	0	0	5	:	1	3	1	0	0	4	:	2	3	S-S
+2	Barcelona	2	0	0	7	:	2	5	6	1	0	0	6	:	2	3	1	0	0	1	:	0	3	S-S
+3	Real Madrid	2	0	0	5	:	1	4	6	1	0	0	2	:	1	3	1	0	0	3	:	0	3	S-S
+4	FC Sevilla	1	1	0	6	:	4	2	4	1	0	0	6	:	4	3	0	1	0	0	:	0	1	U-S
+5	Deportivo	1	1	0	2	:	1	1	4	1	0	0	2	:	1	3	0	1	0	0	:	0	1	U-S
+6	Gijon	1	1	0	2	:	1	1	4	1	0	0	2	:	1	3	0	1	0	0	:	0	1	U-S
+7	Leganes	1	1	0	1	:	0	1	4	0	1	0	0	:	0	1	1	0	0	1	:	0	3	U-S
+8	Eibar	1	0	1	2	:	2	0	3	1	0	0	1	:	0	3	0	0	1	1	:	2	0	S-N
+9	Real Sociedad	1	0	1	2	:	3	-1	3	0	0	1	0	:	3	0	1	0	0	2	:	0	3	S-N
+10	Malaga	0	2	0	3	:	3	0	2	0	1	0	1	:	1	1	0	1	0	2	:	2	1	U-U
+11	Alaves	0	2	0	1	:	1	0	2	0	1	0	0	:	0	1	0	1	0	1	:	1	1	U-U
+12	At. Madrid	0	2	0	1	:	1	0	2	0	1	0	1	:	1	1	0	1	0	0	:	0	1	U-U
+13	Villarreal	0	2	0	1	:	1	0	2	0	1	0	0	:	0	1	0	1	0	1	:	1	1	U-U
+14	Espanyol	0	1	1	6	:	8	-2	1	0	1	0	2	:	2	1	0	0	1	4	:	6	0	U-N
+15	Osasuna	0	1	1	1	:	3	-2	1	0	0	1	0	:	2	0	0	1	0	1	:	1	1	N-U
+16	Granada	0	1	1	2	:	6	-4	1	0	1	0	1	:	1	1	0	0	1	1	:	5	0	N-U
+17	Real Betis	0	1	1	2	:	6	-4	1	0	1	0	0	:	0	1	0	0	1	2	:	6	0	U-N
+18	At. Bilbao	0	0	2	1	:	3	-2	0	0	0	1	0	:	1	0	0	0	1	1	:	2	0	N-N
+19	Celta Vigo	0	0	2	1	:	3	-2	0	0	0	1	0	:	1	0	0	0	1	1	:	2	0	N-N
+20	Valencia	0	0	2	2	:	5	-3	0	0	0	1	2	:	4	0	0	0	1	0	:	1	0	N-N
