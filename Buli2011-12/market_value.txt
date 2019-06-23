@@ -1,0 +1,19 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Bayern Munich	Bayern Munich 	24	25,1	11	335,60 Mill. €	13,98 Mill. €
+Borussia Dortmund	Borussia Dortmund 	28	23,8	12	158,20 Mill. €	5,65 Mill. €
+Bayer 04 Leverkusen	Bayer 04 Leverkusen 	29	23,3	9	151,10 Mill. €	5,21 Mill. €
+FC Schalke 04	FC Schalke 04 	37	23,9	20	136,73 Mill. €	3,70 Mill. €
+SV Werder Bremen	SV Werder Bremen 	38	23,3	17	125,35 Mill. €	3,30 Mill. €
+VfL Wolfsburg	VfL Wolfsburg 	44	24,9	28	122,00 Mill. €	2,77 Mill. €
+Hamburger SV	Hamburger SV 	36	23,1	23	103,20 Mill. €	2,87 Mill. €
+VfB Stuttgart	VfB Stuttgart 	32	24,3	18	101,88 Mill. €	3,18 Mill. €
+TSG 1899 Hoffenheim	TSG 1899 Hoffenheim 	34	23,0	20	93,60 Mill. €	2,75 Mill. €
+1. FC Köln	1. FC Köln 	31	24,2	17	69,29 Mill. €	2,24 Mill. €
+Hannover 96	Hannover 96 	31	24,7	17	68,85 Mill. €	2,22 Mill. €
+Borussia Mönchengladbach	Borussia Mönchengladbach 	28	23,4	15	59,08 Mill. €	2,11 Mill. €
+SC Freiburg	SC Freiburg 	34	24,2	17	57,40 Mill. €	1,69 Mill. €
+1.FSV Mainz 05	1.FSV Mainz 05 	30	24,7	18	55,10 Mill. €	1,84 Mill. €
+Hertha BSC	Hertha BSC 	30	23,5	17	50,35 Mill. €	1,68 Mill. €
+1.FC Kaiserslautern	1.FC Kaiserslautern 	36	23,2	21	50,05 Mill. €	1,39 Mill. €
+1.FC Nuremberg	1.FC Nuremberg 	30	23,2	12	43,18 Mill. €	1,44 Mill. €
+FC Augsburg	FC Augsburg 	32	25,2	15	34,98 Mill. €	1,09 Mill. €

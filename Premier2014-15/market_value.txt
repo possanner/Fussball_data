@@ -1,0 +1,21 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Chelsea FC	Chelsea FC 	38	23,9	28	526,10 Mill. €	13,84 Mill. €
+Manchester United	Manchester United 	43	23,9	25	522,40 Mill. €	12,15 Mill. €
+Manchester City	Manchester City 	36	25,4	29	478,00 Mill. €	13,28 Mill. €
+Arsenal FC	Arsenal FC 	42	23,0	29	404,35 Mill. €	9,63 Mill. €
+Tottenham Hotspur	Tottenham Hotspur 	42	23,7	25	298,25 Mill. €	7,10 Mill. €
+Liverpool FC	Liverpool FC 	35	23,4	21	285,00 Mill. €	8,14 Mill. €
+Everton FC	Everton FC 	40	24,3	19	177,50 Mill. €	4,44 Mill. €
+Southampton FC	Southampton FC 	37	23,5	20	150,40 Mill. €	4,06 Mill. €
+Newcastle United	Newcastle United 	42	22,9	26	139,85 Mill. €	3,33 Mill. €
+Stoke City	Stoke City 	30	26,4	23	128,85 Mill. €	4,30 Mill. €
+Aston Villa	Aston Villa 	38	24,3	20	127,00 Mill. €	3,34 Mill. €
+West Ham United	West Ham United 	36	24,8	21	123,00 Mill. €	3,42 Mill. €
+Hull City	Hull City 	35	26,1	24	122,25 Mill. €	3,49 Mill. €
+Sunderland AFC	Sunderland AFC 	34	24,8	20	115,25 Mill. €	3,39 Mill. €
+Queens Park Rangers	Queens Park Rangers 	41	25,1	24	115,05 Mill. €	2,81 Mill. €
+Swansea City	Swansea City 	36	24,3	30	107,70 Mill. €	2,99 Mill. €
+West Bromwich Albion	West Bromwich Albion 	34	25,5	22	100,60 Mill. €	2,96 Mill. €
+Crystal Palace	Crystal Palace 	42	26,0	25	89,30 Mill. €	2,13 Mill. €
+Leicester City	Leicester City 	37	25,9	18	55,85 Mill. €	1,51 Mill. €
+Burnley FC	Burnley FC 	30	25,5	13	36,75 Mill. €	1,23 Mill. €

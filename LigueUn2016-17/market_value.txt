@@ -1,0 +1,21 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Paris Saint-Germain	Paris Saint-Germain 	39	23,5	21	502,05 Mill. €	12,87 Mill. €
+AS Monaco	AS Monaco 	47	22,2	47	190,45 Mill. €	4,05 Mill. €
+Olympique Lyon	Olympique Lyon 	34	22,6	10	179,20 Mill. €	5,27 Mill. €
+Olympique Marseille	Olympique Marseille 	33	24,7	12	109,40 Mill. €	3,32 Mill. €
+AS Saint-Étienne	AS Saint-Étienne 	42	23,0	17	85,40 Mill. €	2,03 Mill. €
+FC Girondins Bordeaux	FC Girondins Bordeaux 	36	23,6	21	80,55 Mill. €	2,24 Mill. €
+LOSC Lille	LOSC Lille 	46	23,7	25	74,38 Mill. €	1,62 Mill. €
+Stade Rennais FC	Stade Rennais FC 	43	24,1	21	73,50 Mill. €	1,71 Mill. €
+OGC Nice	OGC Nice 	39	22,5	14	65,85 Mill. €	1,69 Mill. €
+FC Lorient	FC Lorient 	41	24,1	18	49,65 Mill. €	1,21 Mill. €
+FC Toulouse	FC Toulouse 	38	22,9	20	49,20 Mill. €	1,29 Mill. €
+FC Nantes	FC Nantes 	30	23,4	19	40,45 Mill. €	1,35 Mill. €
+HSC Montpellier	HSC Montpellier 	35	24,6	16	36,15 Mill. €	1,03 Mill. €
+SC Bastia	SC Bastia 	37	24,1	17	35,05 Mill. €	947 Th. €
+SM Caen	SM Caen 	36	25,1	16	34,40 Mill. €	956 Th. €
+SCO Angers	SCO Angers 	36	25,3	16	34,25 Mill. €	951 Th. €
+EA Guingamp	EA Guingamp 	35	25,3	12	33,20 Mill. €	949 Th. €
+FC Metz	FC Metz 	39	23,5	21	26,68 Mill. €	684 Th. €
+FCO Dijon	FCO Dijon 	33	25,3	12	21,00 Mill. €	636 Th. €
+AS Nancy-Lorraine	AS Nancy-Lorraine 	30	25,2	14	20,90 Mill. €	697 Th. €
