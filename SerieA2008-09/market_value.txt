@@ -1,0 +1,21 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+AC Milan	AC Milan 	32	27,6	18	349,75 Mill. €	10,93 Mill. €
+FC Internazionale	FC Internazionale 	30	27,5	23	334,80 Mill. €	11,16 Mill. €
+AS Roma	AS Roma 	40	24,8	18	243,00 Mill. €	6,08 Mill. €
+Juventus FC	Juventus FC 	33	25,8	14	242,70 Mill. €	7,35 Mill. €
+ACF Fiorentina	ACF Fiorentina 	32	24,7	16	180,70 Mill. €	5,65 Mill. €
+US Palermo	US Palermo 	47	22,9	11	109,50 Mill. €	2,33 Mill. €
+SS Lazio	SS Lazio 	37	24,5	17	106,45 Mill. €	2,88 Mill. €
+Udinese Calcio	Udinese Calcio 	37	22,6	20	104,50 Mill. €	2,82 Mill. €
+SSC Napoli	SSC Napoli 	36	25,7	10	97,30 Mill. €	2,70 Mill. €
+Genoa CFC	Genoa CFC 	47	22,2	15	90,08 Mill. €	1,92 Mill. €
+UC Sampdoria	UC Sampdoria 	46	22,5	12	87,75 Mill. €	1,91 Mill. €
+Torino FC	Torino FC 	35	26,2	4	72,45 Mill. €	2,07 Mill. €
+Calcio Catania	Calcio Catania 	37	25,5	12	54,30 Mill. €	1,47 Mill. €
+Atalanta BC	Atalanta BC 	36	24,0	7	51,15 Mill. €	1,42 Mill. €
+Chievo Verona	Chievo Verona 	38	26,2	11	39,23 Mill. €	1,03 Mill. €
+US Lecce	US Lecce 	43	24,0	21	36,95 Mill. €	859 Th. €
+AC Siena	AC Siena 	40	24,1	17	35,60 Mill. €	890 Th. €
+Reggina Calcio	Reggina Calcio 	42	23,3	14	35,55 Mill. €	846 Th. €
+Bologna FC 1909	Bologna FC 1909 	33	27,5	7	35,05 Mill. €	1,06 Mill. €
+Cagliari Calcio	Cagliari Calcio 	36	23,1	6	34,93 Mill. €	970 Th. €

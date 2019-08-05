@@ -1,0 +1,19 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Eintracht Frankfurt	Eintracht Frankfurt 	36	24,3	18	51,40 Mill. €	1,43 Mill. €
+FC St. Pauli	FC St. Pauli 	30	24,8	6	25,60 Mill. €	853 Th. €
+FC Energie Cottbus	FC Energie Cottbus 	32	24,2	12	22,55 Mill. €	705 Th. €
+VfL Bochum	VfL Bochum 	32	24,3	10	21,33 Mill. €	666 Th. €
+Fortuna Düsseldorf	Fortuna Düsseldorf 	29	24,3	11	20,08 Mill. €	692 Th. €
+SpVgg Greuther Fürth	SpVgg Greuther Fürth 	28	24,2	11	19,58 Mill. €	699 Th. €
+TSV 1860 Munich	TSV 1860 Munich 	31	24,1	8	19,50 Mill. €	629 Th. €
+Alemannia Aachen	Alemannia Aachen 	34	24,3	10	19,30 Mill. €	568 Th. €
+FC Ingolstadt 04	FC Ingolstadt 04 	32	26,1	10	18,25 Mill. €	570 Th. €
+MSV Duisburg	MSV Duisburg 	30	24,1	19	17,93 Mill. €	598 Th. €
+Karlsruher SC	Karlsruher SC 	38	24,8	16	16,70 Mill. €	439 Th. €
+SG Dynamo Dresden	SG Dynamo Dresden 	31	24,8	11	16,55 Mill. €	534 Th. €
+FSV Frankfurt	FSV Frankfurt 	33	24,3	17	14,85 Mill. €	450 Th. €
+FC Erzgebirge Aue	FC Erzgebirge Aue 	27	24,7	3	14,00 Mill. €	519 Th. €
+FC Hansa Rostock	FC Hansa Rostock 	29	24,1	6	11,95 Mill. €	412 Th. €
+1.FC Union Berlin	1.FC Union Berlin 	28	23,9	8	10,80 Mill. €	386 Th. €
+SC Paderborn 07	SC Paderborn 07 	26	24,3	7	10,68 Mill. €	411 Th. €
+Eintracht Braunschweig	Eintracht Braunschweig 	29	24,2	9	8,18 Mill. €	282 Th. €

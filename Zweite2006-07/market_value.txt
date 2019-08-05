@@ -1,0 +1,19 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+1. FC Köln	1. FC Köln 	34	24,3	19	29,08 Mill. €	855 Th. €
+1.FC Kaiserslautern	1.FC Kaiserslautern 	32	23,4	16	24,65 Mill. €	770 Th. €
+MSV Duisburg	MSV Duisburg 	29	25,9	9	20,15 Mill. €	695 Th. €
+SC Freiburg	SC Freiburg 	29	23,8	17	19,45 Mill. €	671 Th. €
+Karlsruher SC	Karlsruher SC 	26	23,7	9	15,33 Mill. €	589 Th. €
+FC Hansa Rostock	FC Hansa Rostock 	28	24,9	7	14,55 Mill. €	520 Th. €
+SpVgg Greuther Fürth	SpVgg Greuther Fürth 	30	23,5	14	12,78 Mill. €	426 Th. €
+FC Carl Zeiss Jena	FC Carl Zeiss Jena 	37	24,8	11	12,38 Mill. €	334 Th. €
+TSV 1860 Munich	TSV 1860 Munich 	26	24,3	11	11,55 Mill. €	444 Th. €
+Rot-Weiss Essen	Rot-Weiss Essen 	27	26,4	11	11,05 Mill. €	409 Th. €
+SV Wacker Burghausen	SV Wacker Burghausen 	28	24,9	13	11,03 Mill. €	394 Th. €
+FC Erzgebirge Aue	FC Erzgebirge Aue 	26	27,2	11	10,90 Mill. €	419 Th. €
+Kickers Offenbach	Kickers Offenbach 	30	26,5	8	10,53 Mill. €	351 Th. €
+SC Paderborn 07	SC Paderborn 07 	28	24,9	12	10,45 Mill. €	373 Th. €
+SpVgg Unterhaching	SpVgg Unterhaching 	31	25,5	12	9,68 Mill. €	312 Th. €
+Eintracht Braunschweig	Eintracht Braunschweig 	38	25,5	14	9,55 Mill. €	251 Th. €
+FC Augsburg	FC Augsburg 	25	26,8	7	9,10 Mill. €	364 Th. €
+TuS Koblenz	TuS Koblenz 	28	25,8	11	8,29 Mill. €	296 Th. €
