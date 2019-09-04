@@ -1,0 +1,25 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Norwich City	Norwich City 	44	24,4	25	82,35 Mill. €	1,87 Mill. €
+Cardiff City	Cardiff City 	52	24,1	46	70,03 Mill. €	1,35 Mill. €
+Wigan Athletic	Wigan Athletic 	50	25,1	26	68,95 Mill. €	1,38 Mill. €
+Derby County	Derby County 	42	23,8	22	52,75 Mill. €	1,26 Mill. €
+Bolton Wanderers	Bolton Wanderers 	55	24,7	25	49,10 Mill. €	893 Th. €
+Watford FC	Watford FC 	40	25,0	30	47,60 Mill. €	1,19 Mill. €
+Nottingham Forest	Nottingham Forest 	41	24,1	18	46,40 Mill. €	1,13 Mill. €
+Middlesbrough FC	Middlesbrough FC 	40	23,7	19	44,78 Mill. €	1,12 Mill. €
+Fulham FC	Fulham FC 	43	22,9	31	43,25 Mill. €	1,01 Mill. €
+Reading FC	Reading FC 	45	23,3	29	42,30 Mill. €	940 Th. €
+Blackburn Rovers	Blackburn Rovers 	38	24,1	18	40,45 Mill. €	1,06 Mill. €
+Brighton & Hove Albion	Brighton & Hove Albion 	42	25,1	25	39,40 Mill. €	938 Th. €
+Leeds United	Leeds United 	40	23,7	20	31,95 Mill. €	799 Th. €
+Charlton Athletic	Charlton Athletic 	45	22,8	25	31,70 Mill. €	704 Th. €
+Wolverhampton Wanderers	Wolverhampton Wanderers 	37	23,3	22	26,38 Mill. €	713 Th. €
+Ipswich Town	Ipswich Town 	43	24,2	20	24,55 Mill. €	571 Th. €
+Blackpool FC	Blackpool FC 	55	23,6	22	24,13 Mill. €	439 Th. €
+Rotherham United	Rotherham United 	47	24,4	14	23,80 Mill. €	506 Th. €
+Huddersfield Town	Huddersfield Town 	43	23,2	20	23,10 Mill. €	537 Th. €
+Millwall FC	Millwall FC 	47	25,9	21	22,93 Mill. €	488 Th. €
+AFC Bournemouth	AFC Bournemouth 	39	24,7	18	21,90 Mill. €	562 Th. €
+Sheffield Wednesday	Sheffield Wednesday 	38	24,1	22	18,35 Mill. €	483 Th. €
+Birmingham City	Birmingham City 	40	24,2	22	17,33 Mill. €	433 Th. €
+Brentford FC	Brentford FC 	39	23,3	18	13,60 Mill. €	349 Th. €

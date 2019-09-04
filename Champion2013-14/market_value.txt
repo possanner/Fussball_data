@@ -1,0 +1,25 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Queens Park Rangers	Queens Park Rangers 	44	26,9	25	123,90 Mill. €	2,82 Mill. €
+Wigan Athletic	Wigan Athletic 	39	25,6	21	91,20 Mill. €	2,34 Mill. €
+Bolton Wanderers	Bolton Wanderers 	39	24,9	16	54,05 Mill. €	1,39 Mill. €
+Nottingham Forest	Nottingham Forest 	38	25,7	19	49,58 Mill. €	1,30 Mill. €
+Reading FC	Reading FC 	31	25,5	22	49,10 Mill. €	1,58 Mill. €
+Watford FC	Watford FC 	40	24,4	29	46,75 Mill. €	1,17 Mill. €
+Blackburn Rovers	Blackburn Rovers 	36	24,4	17	43,35 Mill. €	1,20 Mill. €
+Middlesbrough FC	Middlesbrough FC 	37	24,6	17	37,30 Mill. €	1,01 Mill. €
+Blackpool FC	Blackpool FC 	40	25,2	19	35,23 Mill. €	881 Th. €
+Leeds United	Leeds United 	33	26,0	11	34,88 Mill. €	1,06 Mill. €
+Leicester City	Leicester City 	31	25,5	16	32,35 Mill. €	1,04 Mill. €
+Sheffield Wednesday	Sheffield Wednesday 	43	24,9	23	31,65 Mill. €	736 Th. €
+Brighton & Hove Albion	Brighton & Hove Albion 	35	26,0	21	29,88 Mill. €	854 Th. €
+Millwall FC	Millwall FC 	41	26,9	20	29,03 Mill. €	708 Th. €
+Barnsley FC	Barnsley FC 	39	25,5	18	27,58 Mill. €	707 Th. €
+Burnley FC	Burnley FC 	25	25,2	11	23,03 Mill. €	921 Th. €
+Derby County	Derby County 	42	23,5	18	20,50 Mill. €	488 Th. €
+Birmingham City	Birmingham City 	42	23,7	20	20,23 Mill. €	482 Th. €
+Doncaster Rovers	Doncaster Rovers 	34	25,3	15	19,00 Mill. €	559 Th. €
+Ipswich Town	Ipswich Town 	40	22,8	17	18,53 Mill. €	463 Th. €
+Charlton Athletic	Charlton Athletic 	38	24,1	16	17,45 Mill. €	459 Th. €
+AFC Bournemouth	AFC Bournemouth 	33	25,9	20	16,75 Mill. €	508 Th. €
+Huddersfield Town	Huddersfield Town 	32	23,6	14	14,75 Mill. €	461 Th. €
+Yeovil Town	Yeovil Town 	38	23,8	16	11,88 Mill. €	313 Th. €

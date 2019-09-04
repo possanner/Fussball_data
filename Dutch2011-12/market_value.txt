@@ -1,0 +1,19 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Ajax Amsterdam	Ajax Amsterdam 	35	22,3	15	83,15 Mill. €	2,38 Mill. €
+FC Twente Enschede	FC Twente Enschede 	36	23,4	17	79,60 Mill. €	2,21 Mill. €
+PSV Eindhoven	PSV Eindhoven 	32	23,1	19	77,93 Mill. €	2,44 Mill. €
+AZ Alkmaar	AZ Alkmaar 	31	22,1	16	40,68 Mill. €	1,31 Mill. €
+Feyenoord Rotterdam	Feyenoord Rotterdam 	31	21,7	11	34,08 Mill. €	1,10 Mill. €
+SC Heerenveen	SC Heerenveen 	31	22,7	14	33,75 Mill. €	1,09 Mill. €
+FC Groningen	FC Groningen 	33	22,6	15	30,18 Mill. €	914 Th. €
+FC Utrecht	FC Utrecht 	37	23,0	17	28,60 Mill. €	773 Th. €
+Vitesse Arnhem	Vitesse Arnhem 	35	21,6	18	28,13 Mill. €	804 Th. €
+Roda JC Kerkrade	Roda JC Kerkrade 	27	23,9	17	19,38 Mill. €	718 Th. €
+NEC Nijmegen	NEC Nijmegen 	32	23,3	10	19,08 Mill. €	596 Th. €
+NAC Breda	NAC Breda 	30	24,6	8	17,58 Mill. €	586 Th. €
+ADO Den Haag	ADO Den Haag 	36	23,4	13	17,20 Mill. €	478 Th. €
+VVV-Venlo	VVV-Venlo 	28	23,3	9	11,90 Mill. €	425 Th. €
+Heracles Almelo	Heracles Almelo 	26	23,0	6	11,78 Mill. €	453 Th. €
+De Graafschap Doetinchem	De Graafschap Doetinchem 	32	23,0	13	11,55 Mill. €	361 Th. €
+SBV Excelsior Rotterdam	SBV Excelsior Rotterdam 	32	21,6	5	8,05 Mill. €	252 Th. €
+RKC Waalwijk	RKC Waalwijk 	25	23,0	5	7,83 Mill. €	313 Th. €

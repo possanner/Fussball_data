@@ -1,0 +1,25 @@
+Club	Squad	Age	Foreigners	Total Market Value	Average Market Value
+Fulham FC	Fulham FC 	25	26,0	17	136,00 Mill. €	5,44 Mill. €
+Stoke City	Stoke City 	27	27,5	14	105,50 Mill. €	3,91 Mill. €
+Leeds United	Leeds United 	26	25,0	14	90,00 Mill. €	3,46 Mill. €
+Huddersfield Town	Huddersfield Town 	25	24,4	12	87,40 Mill. €	3,50 Mill. €
+West Bromwich Albion	West Bromwich Albion 	25	26,1	11	81,35 Mill. €	3,25 Mill. €
+Cardiff City	Cardiff City 	28	28,3	26	76,40 Mill. €	2,73 Mill. €
+Nottingham Forest	Nottingham Forest 	30	27,1	19	71,05 Mill. €	2,37 Mill. €
+Middlesbrough FC	Middlesbrough FC 	21	26,4	8	59,45 Mill. €	2,83 Mill. €
+Bristol City	Bristol City 	27	25,9	14	56,40 Mill. €	2,09 Mill. €
+Derby County	Derby County 	27	26,5	11	52,80 Mill. €	1,96 Mill. €
+Swansea City	Swansea City 	24	25,8	21	48,80 Mill. €	2,03 Mill. €
+Brentford FC	Brentford FC 	26	23,7	17	47,50 Mill. €	1,83 Mill. €
+Reading FC	Reading FC 	28	25,4	15	46,55 Mill. €	1,66 Mill. €
+Sheffield Wednesday	Sheffield Wednesday 	27	27,4	14	45,18 Mill. €	1,67 Mill. €
+Hull City	Hull City 	26	25,0	11	42,70 Mill. €	1,64 Mill. €
+Blackburn Rovers	Blackburn Rovers 	24	26,0	8	38,95 Mill. €	1,62 Mill. €
+Birmingham City	Birmingham City 	29	26,2	14	36,45 Mill. €	1,26 Mill. €
+Queens Park Rangers	Queens Park Rangers 	25	25,6	15	30,75 Mill. €	1,23 Mill. €
+Preston North End	Preston North End 	34	25,1	13	28,60 Mill. €	841 Th. €
+Wigan Athletic	Wigan Athletic 	30	25,5	16	20,63 Mill. €	688 Th. €
+Millwall FC	Millwall FC 	23	27,2	11	19,80 Mill. €	861 Th. €
+Luton Town	Luton Town 	28	26,5	7	16,75 Mill. €	598 Th. €
+Charlton Athletic	Charlton Athletic 	26	25,4	9	14,30 Mill. €	550 Th. €
+Barnsley FC	Barnsley FC 	28	22,5	14	8,65 Mill. €	309 Th. €
