@@ -14,7 +14,7 @@ Newcastle United	Newcastle United 	28	27,4	19	251,08 Mill. €	8,97 Mill. €
 Watford FC	Watford FC 	30	27,8	22	238,35 Mill. €	7,95 Mill. €
 Southampton FC	Southampton FC 	22	25,6	13	233,00 Mill. €	10,59 Mill. €
 Crystal Palace	Crystal Palace 	24	28,7	16	230,55 Mill. €	9,61 Mill. €
-Burnley FC	Burnley FC 	24	28,8	9	200,75 Mill. €	8,36 Mill. €
+Burnley FC	Burnley FC 	24	28,8	9	200,76 Mill. €	8,36 Mill. €
 Brighton & Hove Albion	Brighton & Hove Albion 	24	27,5	16	200,75 Mill. €	8,36 Mill. €
 Aston Villa	Aston Villa 	25	26,5	16	156,00 Mill. €	6,24 Mill. €
 Norwich City	Norwich City 	25	27,0	20	90,60 Mill. €	3,62 Mill. €

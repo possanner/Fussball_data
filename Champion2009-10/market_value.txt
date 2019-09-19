@@ -21,5 +21,5 @@ Barnsley FC	Barnsley FC 	39	24,2	17	21,10 Mill. €	541 Th. €
 Leicester City	Leicester City 	38	24,4	16	21,07 Mill. €	554 Th. €
 Crystal Palace	Crystal Palace 	33	23,2	14	20,60 Mill. €	624 Th. €
 Doncaster Rovers	Doncaster Rovers 	36	24,8	13	19,95 Mill. €	554 Th. €
-Scunthorpe United	Scunthorpe United 	36	22,9	11	7,23 Mill. €	201 Th. €
-Peterborough United	Peterborough United 	46	21,8	13	5,30 Mill. €	123 Th. €
+Scunthorpe United	Scunthorpe United 	36	22,9	11	 7,23 Mill. €	201 Th. €
+Peterborough United	Peterborough United 	46	21,8	13	 5,30 Mill. €	123 Th. €

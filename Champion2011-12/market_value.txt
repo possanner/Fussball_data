@@ -14,7 +14,7 @@ Cardiff City	Cardiff City 	37	23,6	32	32,05 Mill. €	866 Th. €
 Portsmouth FC	Portsmouth FC 	37	24,0	22	31,90 Mill. €	862 Th. €
 Hull City	Hull City 	39	24,1	20	29,13 Mill. €	747 Th. €
 Reading FC	Reading FC 	53	22,7	30	27,65 Mill. €	522 Th. €
-Crystal Palace	Crystal Palace 	46	22,8	23	25,88 Mill. €	563 Th. €
+Crystal Palace	Crystal Palace 	46	22,8	23	25,89 Mill. €	563 Th. €
 Southampton FC	Southampton FC 	39	23,9	14	25,88 Mill. €	663 Th. €
 Watford FC	Watford FC 	41	22,3	21	22,50 Mill. €	549 Th. €
 Brighton & Hove Albion	Brighton & Hove Albion 	42	23,9	22	19,48 Mill. €	464 Th. €
@@ -22,4 +22,4 @@ Barnsley FC	Barnsley FC 	41	23,2	13	17,48 Mill. €	426 Th. €
 Millwall FC	Millwall FC 	40	24,8	14	16,75 Mill. €	419 Th. €
 Derby County	Derby County 	40	23,2	17	16,05 Mill. €	401 Th. €
 Coventry City	Coventry City 	35	22,6	14	12,23 Mill. €	349 Th. €
-Peterborough United	Peterborough United 	39	21,9	10	8,75 Mill. €	224 Th. €
+Peterborough United	Peterborough United 	39	21,9	10	 8,75 Mill. €	224 Th. €

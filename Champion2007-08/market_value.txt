@@ -18,8 +18,8 @@ Norwich City	Norwich City 	27	22,9	12	15,18 Mill. €	562 Th. €
 Coventry City	Coventry City 	31	24,2	15	13,30 Mill. €	429 Th. €
 Sheffield Wednesday	Sheffield Wednesday 	29	23,1	10	12,55 Mill. €	433 Th. €
 Barnsley FC	Barnsley FC 	39	24,3	22	11,33 Mill. €	291 Th. €
-Blackpool FC	Blackpool FC 	32	24,0	13	7,78 Mill. €	243 Th. €
-Colchester United	Colchester United 	26	25,8	6	7,30 Mill. €	281 Th. €
-Plymouth Argyle	Plymouth Argyle 	23	24,9	15	6,88 Mill. €	299 Th. €
-Bristol City	Bristol City 	31	24,3	18	4,70 Mill. €	152 Th. €
-Scunthorpe United	Scunthorpe United 	24	24,1	9	3,88 Mill. €	161 Th. €
+Blackpool FC	Blackpool FC 	32	24,0	13	 7,78 Mill. €	243 Th. €
+Colchester United	Colchester United 	26	25,8	6	 7,30 Mill. €	281 Th. €
+Plymouth Argyle	Plymouth Argyle 	23	24,9	15	 6,88 Mill. €	299 Th. €
+Bristol City	Bristol City 	31	24,3	18	 4,70 Mill. €	152 Th. €
+Scunthorpe United	Scunthorpe United 	24	24,1	9	 3,88 Mill. €	161 Th. €

@@ -20,6 +20,6 @@ Plymouth Argyle	Plymouth Argyle 	30	23,9	20	14,83 Mill. €	494 Th. €
 Nottingham Forest	Nottingham Forest 	33	21,4	12	13,55 Mill. €	411 Th. €
 Coventry City	Coventry City 	23	23,7	12	12,70 Mill. €	552 Th. €
 Barnsley FC	Barnsley FC 	28	24,7	18	11,95 Mill. €	427 Th. €
-Bristol City	Bristol City 	27	25,4	14	9,18 Mill. €	340 Th. €
-Doncaster Rovers	Doncaster Rovers 	26	25,1	9	7,53 Mill. €	289 Th. €
-Swansea City	Swansea City 	25	24,2	18	6,58 Mill. €	263 Th. €
+Bristol City	Bristol City 	27	25,4	14	 9,18 Mill. €	340 Th. €
+Doncaster Rovers	Doncaster Rovers 	26	25,1	9	 7,53 Mill. €	289 Th. €
+Swansea City	Swansea City 	25	24,2	18	 6,58 Mill. €	263 Th. €

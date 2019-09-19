@@ -22,4 +22,4 @@ Preston North End	Preston North End 	33	25,3	18	20,35 Mill. €	617 Th. €
 Huddersfield Town	Huddersfield Town 	32	24,0	16	19,00 Mill. €	594 Th. €
 Rotherham United	Rotherham United 	41	23,9	16	16,95 Mill. €	413 Th. €
 Burton Albion	Burton Albion 	36	25,6	9	16,63 Mill. €	462 Th. €
-Barnsley FC	Barnsley FC 	43	21,6	14	8,98 Mill. €	209 Th. €
+Barnsley FC	Barnsley FC 	43	21,6	14	 8,98 Mill. €	209 Th. €

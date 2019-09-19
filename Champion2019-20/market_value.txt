@@ -22,4 +22,4 @@ Wigan Athletic	Wigan Athletic 	30	25,5	16	20,63 Mill. €	688 Th. €
 Millwall FC	Millwall FC 	23	27,2	11	19,80 Mill. €	861 Th. €
 Luton Town	Luton Town 	28	26,5	7	16,75 Mill. €	598 Th. €
 Charlton Athletic	Charlton Athletic 	26	25,4	9	14,30 Mill. €	550 Th. €
-Barnsley FC	Barnsley FC 	28	22,5	14	8,65 Mill. €	309 Th. €
+Barnsley FC	Barnsley FC 	28	22,5	14	 8,65 Mill. €	309 Th. €

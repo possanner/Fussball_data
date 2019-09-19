@@ -22,4 +22,4 @@ Blackburn Rovers	Blackburn Rovers 	39	23,5	12	22,75 Mill. €	583 Th. €
 Ipswich Town	Ipswich Town 	45	23,8	17	22,38 Mill. €	497 Th. €
 Millwall FC	Millwall FC 	37	24,9	15	17,83 Mill. €	495 Th. €
 Preston North End	Preston North End 	44	23,4	17	15,88 Mill. €	361 Th. €
-Rotherham United	Rotherham United 	35	24,1	15	8,15 Mill. €	240 Th. €
+Rotherham United	Rotherham United 	35	24,1	15	 8,15 Mill. €	240 Th. €
